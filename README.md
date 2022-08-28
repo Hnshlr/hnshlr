@@ -1,7 +1,7 @@
 #Hi there! I'm Hans.
 
 
-### About me :
+## About me :
 
 - 🎓 Digital engineering student at ISEP, specialized in Software Engineering.
 - 🏝 Born in New-Caledonia.
@@ -9,7 +9,7 @@
 - 🇬🇧 Currently studying in the UK for a MSc in Computational and Software Techniques in Engineering.
 
 
-### Tech stack :
+## Tech stack :
 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -37,7 +37,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-### Projects and activities :
+## Projects and activities :
+
+**DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - PHOTOWISH (PHOTOSHOP ALIKE CONCEPT)** : Designing and implementing a business application allowing users to import, edit and save photos, using a large set of tools.
+
+**DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - RBNB (AIRBNB ALIKE CONCEPT)** : Designing and implementing a business web-app allowing users to rent/list houses for a period of time. This project also include an instant messaging system made with Firebase.
 
 **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - HUMAN RESSOURCES MANAGEMENT & BILLING PROCESS :** Designing and implementing a business application with PowerPlatform to manage human ressources. The Congress of New-Caledonia: Deployment of an application dematerialising the billing process, project framework, user and functional documentation and partnering customers with change management.
 
@@ -47,7 +51,7 @@
 
 
 
-### Education :
+## Education :
 
 - Cranfield University - MSc in Computational and Software Techniques in Engineering, Computational Intelligence for Data Analytics option.
 - ISEP - École d'ingénieurs du numérique (2020-2023)
@@ -55,6 +59,6 @@
 - SCIENCE BACCALAUREATE - Lycée Lapérouse (2016-2018)
 
 
-### How to reach me :
+## How to reach me :
 
-<a href="https://www.linkedin.com/in/hans-haller/"><img src="/assets/linkedin.svg" width="15" height="15">  LinkedIn<a/>
+### <a href="https://www.linkedin.com/in/hans-haller/"><img src="/assets/linkedin.svg" width="20" height="20">  LinkedIn<a/>
