@@ -20,4 +20,4 @@
 
 ### How to reach me :
 
-<a href="https://www.linkedin.com/in/hans-haller/"><img src="/assets/linkedin.svg" width="20" height="20"> LinkedIn<a/>
+<a href="https://www.linkedin.com/in/hans-haller/"><img src="/assets/linkedin.svg" width="15" height="15">  LinkedIn<a/>
