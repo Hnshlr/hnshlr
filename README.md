@@ -39,6 +39,8 @@
 
 ## Projects and activities :
 
+- <img src="/assets/opt.svg" width="15" height="15"> test
+
 **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - PHOTOWISH (PHOTOSHOP ALIKE CONCEPT)** : Designing and implementing a business application allowing users to import, edit and save photos, using a large set of tools.
 
 **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - RBNB (AIRBNB ALIKE CONCEPT)** : Designing and implementing a business web-app allowing users to rent/list houses for a period of time. This project also include an instant messaging system made with Firebase.
