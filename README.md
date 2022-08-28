@@ -39,17 +39,19 @@
 
 ## Projects and activities :
 
-- <img src="/assets/opt.svg" width="15" height="15"> test
+- **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - PHOTOWISH (PHOTOSHOP ALIKE CONCEPT)** : Designing and implementing a business application allowing users to import, edit and save photos, using a large set of tools.
 
-**DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - PHOTOWISH (PHOTOSHOP ALIKE CONCEPT)** : Designing and implementing a business application allowing users to import, edit and save photos, using a large set of tools.
 
-**DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - RBNB (AIRBNB ALIKE CONCEPT)** : Designing and implementing a business web-app allowing users to rent/list houses for a period of time. This project also include an instant messaging system made with Firebase.
+- **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - RBNB (AIRBNB ALIKE CONCEPT)** : Designing and implementing a business web-app allowing users to rent/list houses for a period of time. This project also include an instant messaging system made with Firebase.
 
-**DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - HUMAN RESSOURCES MANAGEMENT & BILLING PROCESS :** Designing and implementing a business application with PowerPlatform to manage human ressources. The Congress of New-Caledonia: Deployment of an application dematerialising the billing process, project framework, user and functional documentation and partnering customers with change management.
 
-**VIDEO GAME DEVELOPMENT - MR JACK POCKET :** Developing a digital adaptation of the Mister Jack Pocket board game and implementing a graphic interface, using Java and JavaFx.
+- **DESIGN AND IMPLEMENTATION OF A BUSINESS APPLICATION - HUMAN RESSOURCES MANAGEMENT & BILLING PROCESS :** Designing and implementing a business application with PowerPlatform to manage human ressources. The Congress of New-Caledonia: Deployment of an application dematerialising the billing process, project framework, user and functional documentation and partnering customers with change management.
 
-**BUSINESS SIMULATION - PSYCAPTR :** Designing and implementing a psycho-technical measuring technology for pilots with Energia, developing a website for users to interact with their datas with HTML-CSS.
+
+- **VIDEO GAME DEVELOPMENT - MR JACK POCKET :** Developing a digital adaptation of the Mister Jack Pocket board game and implementing a graphic interface, using Java and JavaFx.
+
+
+- **BUSINESS SIMULATION - PSYCAPTR :** Designing and implementing a psycho-technical measuring technology for pilots with Energia, developing a website for users to interact with their datas with HTML-CSS.
 
 
 
